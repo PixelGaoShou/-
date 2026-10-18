@@ -8,7 +8,6 @@
 >
 > 前置：**Fabric Loader ≥ 0.15.0**、**Fabric API 0.92.9+1.20.1**、**Java 17+**
 
-![装备贴图预览](docs/preview.png)
 
 ## 安装
 
