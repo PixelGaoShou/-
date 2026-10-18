@@ -163,6 +163,4 @@ src/main/java/com/dsh/goldenappleworkshop/
 
 代码与生成的贴图以 **MIT License** 发布。项目不包含 Minecraft 原版资源文件；`docs/` 中的预览图由本模组自己的贴图生成。
 
-此代码由DeepSeek生成。
-
 Minecraft 是 Mojang Studios 的商标。本项目与 Mojang / Microsoft 无关联。
